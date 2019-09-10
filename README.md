@@ -19,3 +19,5 @@
 [image1]: //placehold.it/250x100
 [image2]: //placehold.it/200x100
 [image3]: //placehold.it/150x100
+
+[![Alt text](//placehold.it/150x100)](http://example.com/)
