@@ -3,4 +3,4 @@ __Kezhik__
 
 ***жирный и наклонный***
 
-[![Kartinka](//placehold.it/150x100)
+[![Kartinka](https://www.pinterest.ru/pin/841469511601378446/)
