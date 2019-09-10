@@ -1,1 +1,1 @@
-..*Kezhik
+*Kezhik*
