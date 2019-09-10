@@ -3,4 +3,4 @@ __Kezhik__
 
 ***жирный и наклонный***
 
-[![Kartinka](https://www.pinterest.ru/pin/841469511601378446/)
+[![Kartinka](https://www.1zoom.ru/big2/391/325550-svetik.jpg)
