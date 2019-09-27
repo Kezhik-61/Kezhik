@@ -26,5 +26,5 @@
 
 ## Но тут все пошло наперекосяк ...
 
-![Kartinka3]()
+![Kartinka3](https://github.com/Kezhik-61/Kezhik/blob/master/img/3.PNG?raw=true)
 
