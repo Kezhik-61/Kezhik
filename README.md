@@ -28,3 +28,6 @@
 
 ![Kartinka3](https://github.com/Kezhik-61/Kezhik/blob/master/img/3.PNG?raw=true)
 
+## Джо думает о наследовании...
+
+![Kartinka4]()
