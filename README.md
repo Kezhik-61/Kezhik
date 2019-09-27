@@ -30,4 +30,5 @@
 
 ## Джо думает о наследовании...
 
-![Kartinka4]()
+![Kartinka4](https://github.com/Kezhik-61/Kezhik/blob/master/img/4.PNG?raw=true)
+
