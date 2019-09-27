@@ -9,4 +9,5 @@
 приемом ООП и определили суперкласс Duck, на основе ко-
 торого объявляются типы конкретных видов уток.
 
-![Kartinka](//https://github.com/Kezhik-61/Kezhik/blob/master/img/1.PNG?raw=true)
+![Kartinka1](https://github.com/Kezhik-61/Kezhik/blob/master/img/1.PNG?raw=true)
+ 
