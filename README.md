@@ -20,4 +20,4 @@
 брании акционеров *на следующей неделе*.
 
 ## Теперь утки будут ЛЕТАТЬ
-
+![Kartinka2](https://github.com/Kezhik-61/Kezhik/blob/master/img/2.PNG?raw=true)
